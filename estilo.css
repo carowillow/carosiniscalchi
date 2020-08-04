@@ -1,0 +1,153 @@
+body {
+	
+	background-color: #e9ecef;
+	margin: 0px;
+
+	
+}
+
+h1 {
+	font-family: 'Lobster';
+	font-size: 80px;
+	text-align: center;
+	color: #cc0c1f;
+	text-shadow: 8px 2px 8px black;
+	bottom: 20px;
+	
+}
+
+h2 {
+	color: black;
+	font-size: 30px;
+	font-family: 'Dancing Script', Corsiva;
+	letter-spacing: 5px;
+	display: block;
+
+}
+
+
+
+a {
+    color: #343a40;
+    
+    }
+
+.imgc {
+	border-radius: 100px;
+	box-shadow:10px 10px 10px black;
+
+	
+}
+
+
+.fontbanner {
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Dancing Script', Corsiva;
+	color:#f8f9fa;
+	text-shadow: 10px 8px 8px black;
+	position: relative;
+	bottom: 30px;
+	
+}
+
+.click {
+	font-size: 30px;
+	text-align: center;
+	position: relative;
+	bottom: 40px;
+	
+}
+
+
+.horizon  {
+	display: inline;
+	padding-left:20px;
+    padding-right:20px;
+    font-size: 25px;
+
+}
+
+
+.container {
+	position: relative;
+	top: 5px;
+
+}
+
+.container p {
+	padding-top:0px;
+	margin-top: 20px;
+	font-family: 'Dancing Script', Corsiva;
+	font-size: 20px;
+	color: black;
+	border-radius: 10px;
+	box-shadow:10px 10px 10px black;
+	background-color: #adb5bd59;
+}
+
+
+
+#footer p {
+	padding-top: 15px;
+	font-family: Candara;
+	font-size: 15px;
+	color:#adb5bd;
+}
+
+
+
+#banner {
+	background-image: url("banner1.jpg");
+	background-size: cover;
+	border:3px solid #adb5bd; 
+	border-radius: 20px;
+	background-position: center;
+	margin: 10px;
+
+
+}
+
+#white{
+	color:white;
+}
+
+#green{
+	color:#28a745;
+}
+
+
+#historia {
+   display: block;
+   vertical-align: top;
+   margin:0 auto;
+   width: 50%;
+   padding-top: 30px;
+   font-size: 20px;
+   font-family: 'Dancing Script', cursive;
+   color: grey;
+   
+}
+
+#historia p {
+	color: grey;
+	
+}
+
+
+#footer {
+	font-family:'Lucida Console';
+	font-size: 15px;
+	text-align: center;
+	background-color: #212529bd;
+	margin-top: 20px;
+	
+	
+	}
+
+
+
+#footer a:hover {
+	color: white;
+}
+
